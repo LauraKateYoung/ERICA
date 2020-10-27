@@ -1,6 +1,6 @@
 
 <div style="float: left">
-    <h1> <img src="https://user-images.githubusercontent.com/47796061/96899891-5ee3e200-1489-11eb-8ded-f754a00bf904.png" width="100" height="100" valign="middle"> ERICA: Emulated Retinal Image CApture </h1>
+    <h1> <img src="https://user-images.githubusercontent.com/47796061/97297065-6c161d80-1849-11eb-949b-390894dd41fa.png" width="100" height="100" valign="middle"> ERICA: Emulated Retinal Image CApture </h1>
 </div>
 
 
