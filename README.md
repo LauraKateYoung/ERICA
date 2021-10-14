@@ -12,7 +12,7 @@ ERICA is a simulation tool for generating synthetic high resolution *en face* im
 3. Replicate the data capture, including the effects of diffraction, noise and residual aberrations
 
 ## Citation
-If you use ERICA you should cite the original paper:<br/>
+If you use ERICA please cite the original paper:<br/>
 Young, L.K., Smithson, H.E. Emulated retinal image capture (ERICA) to test, train and validate processing of retinal images. Sci Rep 11, 11225 (2021). https://doi.org/10.1038/s41598-021-90389-y<br/>
   
 ## Requirements
