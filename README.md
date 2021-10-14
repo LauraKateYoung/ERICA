@@ -11,9 +11,29 @@ ERICA is a simulation tool for generating synthetic high resolution *en face* im
 2. Simulate movements of the eye made during the image capture
 3. Replicate the data capture, including the effects of diffraction, noise and residual aberrations
 
-<br/><br/> 
+## Citation
+If you use ERICA you should cite the original paper:<br/>
+Young, L.K., Smithson, H.E. Emulated retinal image capture (ERICA) to test, train and validate processing of retinal images. Sci Rep 11, 11225 (2021). https://doi.org/10.1038/s41598-021-90389-y<br/>
   
-**ERICA will be released alongside our publication shortly - watch this space!**
+## Requirements
+ERICA is written in the Python Programming language and uses the following libraries:
+<br/>
+numpy<br/>
+scipy<br/>
+yaml<br/>
+numba<br/>
+PIL<br/>
+scikit-image<br/>
+scikit-learn<br/>
+astropy<br/>
+<br/>
+The specifications of your AOSLO are stored in YAML (.yml) configuration files. 
+Data is stored in .fits files, which can be read in Matlab using the fitsread function. FITS allows multidimensional arrays to be stored and is also more efficient than CSV. 
+Numba is used to speed up some operations.
+<br/>
+## How to use ERICA
+ERICA comes with a series of Jupyter notebooks that go through step-by-step how images are generated. We recommend following these to understand how it works. We also include an example to generate a test dataset, which you could use as a template for your own simulations. Details about individual functions can be found in the doc strings.
+
 
 <img src="https://user-images.githubusercontent.com/47796061/96901110-bdf62680-148a-11eb-98f2-ad0b82c389ac.png">
 
