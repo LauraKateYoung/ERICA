@@ -27,7 +27,7 @@ scikit-image<br/>
 scikit-learn<br/>
 astropy<br/>
 <br/>
-A python environment variable is provided, which you can use to make sure you have all of the relevant modules and the correct versions.<br>
+A python environment is provided (erica_environment.yml), which you can use to make sure you have all of the relevant modules and the correct versions.<br>
 <br>
 The specifications of your AOSLO are stored in YAML (.yml) configuration files. 
 Data is stored in .fits files, which can be read in Matlab using the fitsread function. FITS allows multidimensional arrays to be stored and is also more efficient than CSV. 
