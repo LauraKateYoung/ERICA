@@ -1,0 +1,15 @@
+frequency_fast_scanner_Hz: 16000
+pinhole_diameter_Airy_radii: 2.0
+bit_depth: 8
+microns_per_degree: 297.0
+noise_mean_normalised_graylevels: 0.35
+noise_stdev_normalised_graylevels: 0.07
+number_pixels_per_line: 512
+number_scan_lines_excluding_flyback: 512
+number_scan_lines_including_flyback: 525
+pixel_size_arcmin_y_x:
+- 0.11
+- 0.11
+proportion_saturated_pixels: 0.005
+pupil_diameter_m: 0.005
+wavelength_m: 8.5e-07

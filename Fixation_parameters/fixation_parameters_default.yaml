@@ -1,0 +1,16 @@
+Drift_amplitude_arcmin_MEAN: 6.5
+Drift_amplitude_arcmin_STD: 0.7
+Main_sequence_STD: 1.0
+Main_sequence_factor: 100.0
+Microsaccade_amplitude_arcmin_MEAN: 30.0
+Microsaccade_amplitude_arcmin_STD: 3.0
+Microsaccade_interval_seconds_MEAN: 1.0
+Microsaccade_interval_seconds_STD: 0.5
+Minimum_microsaccade_interval: 0.1
+Minimum_time_microsaccade: 0.1
+Tremor_amplitude_arcmin_MEAN: 0.08
+Tremor_amplitude_arcmin_STD: 0.03
+Tremor_bandwidth_MEAN: 25
+Tremor_bandwidth_STD: 2.5
+Tremor_centre_frequency_MEAN: 65
+Tremor_centre_frequency_STD: 7.5
